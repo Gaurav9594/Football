@@ -1,7 +1,7 @@
 torch
 ultralytics
-python-opencv
+opencv-python
 pillow
-skimage
+scikit-image
 scikit-learn
 streamlit
